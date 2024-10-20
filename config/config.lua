@@ -67,13 +67,13 @@ end
 
 -- Translations for notifications and messages
 Config.Translations = {
-    LockpickInProgress = "¡Ya estás intentando forzar una cerradura!",
-    LockpickFailed = "¡Fallaste al forzar la cerradura!",
-    LockpickSuccess = "¡Éxito al forzar la cerradura! Vehículo desbloqueado.",
-    NoLockpickItem = "¡No tienes una ganzúa!",
-    NoVehicleNearby = "¡No hay vehículos cercanos!",
-    VehicleAlreadyUnlocked = "Este vehículo ya está desbloqueado.",
-    PoliceAlertTriggered = "¡Oh no! Un vecino ha llamado a la policía por verte ganzuando."
+    LockpickInProgress = "You are already trying to pick a lock!",
+    LockpickFailed = "You failed to pick the lock!",
+    LockpickSuccess = "Lockpicking successful! Vehicle unlocked.",
+    NoLockpickItem = "You don't have a lockpick!",
+    NoVehicleNearby = "No vehicles nearby!",
+    VehicleAlreadyUnlocked = "This vehicle is already unlocked.",
+    PoliceAlertTriggered = "Oh no! A neighbor called the police after seeing you lockpicking."
 }
 
 
